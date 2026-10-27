@@ -1,0 +1,4 @@
+Copyright © 2026 小组202 NOT FOUND. All rights reserved.
+
+本声明适用于项目原创代码。第三方组件、参考图片及摘句等内容的权利归各自权利人。
+Third-party code retains its original licenses; see THIRD_PARTY_NOTICES.txt.
